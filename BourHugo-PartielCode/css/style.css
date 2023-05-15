@@ -1,0 +1,31 @@
+.position{
+    right: inherit;
+}
+.cardposition{
+    right: inherit;
+}
+.title{
+    text-align: center;
+    background-color: gray;
+    text-emphasis-color: white;   
+}
+
+.way{
+    font-style: bold;
+}
+.subtitle1 {
+    font-style: bold;
+    text-align: center;
+}
+.sub{
+    font-style: bold; 
+}
+.bot{
+    background-color: gray;
+    text-align: center;
+}
+.fin{
+    text-align: center;
+    background-color: black;
+    text-emphasis-color: white  ;
+}
